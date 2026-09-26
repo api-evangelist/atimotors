@@ -1,23 +1,72 @@
 aid: atimotors
+
 name: Atimotors
-description: 'Atimotors is a company surfaced via the API Evangelist harvest backlog (source: secondary-market)
-  and added to the network as a stub for full-pipeline profiling.'
+
+image: https://www.atirobotics.ai/assets/images/social/og-default.jpg
+
+description: 'Ati Robotics (formerly Atimotors) provides autonomous mobile robots (AMRs) and AI-driven material orchestration software for factories. Their solutions include tugging, pallet movement, lifting, handling, and physical AI across industries such as automotive, medical, food & beverage, consumer goods, heavy equipment, and energy. With over 70 plants deployed and a 99% mission success rate, they claim rapid ROI and advanced automation capabilities.'
+
 url: https://raw.githubusercontent.com/api-evangelist/atimotors/refs/heads/main/apis.yml
+
 x-type: company
+
 x-source: harvest:secondary-market
-x-tier: stub
-x-tier-reason: harvest
+
+x-tier: profiled
+x-tier-reason: enrichment pass 2026-09-26 (modular-v1; was harvest)
+
 specificationVersion: '0.20'
+
 created: '2026-09-26'
+
 modified: '2026-09-26'
+
 tags:
-- Company
-apis: []
+- Robotics
+- Material Handling
+- Industrial Automation
+- AI
+- Factory Software
+- Robots-as-a-Service
+
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+
 common:
+- type: LLMsTxt
+  url: llms/atimotors-llms.txt
+- type: Hosts
+  url: hosts/atimotors-hosts.yml
+- type: Vendors
+  url: vendors/atimotors-vendors.yml
+- type: Newsroom
+  url: https://www.atirobotics.ai/resources/press/
+- type: Leadership
+  url: https://www.atirobotics.ai/company/leadership/
+- type: DomainSecurity
+  url: security/atimotors-domain-security.yml
 - type: Website
-  url: https://equityzen.com/company/atimotors
+  url: https://www.atirobotics.ai
+
+apis: []
+
+x-coverage:
+  state: none
+  reason: no-developer-program
+  method: derived
+  generated: '2026-09-26'
+  generator: derive-coverage.py (pre-flight evidence)
+  detail: >-
+    the company publishes no developer documentation host and no machine-readable contract on its own domain
+  evidence:
+  - url: https://equityzen.com/company/atimotors
+    status: 403
+x-enrichment:
+  date: '2026-09-26'
+  status: enriched
+  artifacts_added: 7
+  pass: modular-v1
+  engine: identity=local,contract=local,surfaces=local,docs=local

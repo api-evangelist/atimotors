@@ -1,0 +1,59 @@
+# Ati Robotics
+
+> Ati Robotics builds autonomous mobile robots (AMRs) and AI orchestration software for enterprise factories. The Sherpa AMR family handles indoor and outdoor material movement at scale; Ati Fleet Manager and Ati Copilot coordinate fleets across the shop floor. Trusted by 70+ factories across 6 countries including manufacturers like Airbus, Hyundai, Daimler, and Bosch.
+
+## Company
+
+- [Company Overview](https://www.atirobotics.ai/company/): Mission, history, and structure of Ati Robotics — 250+ team members across the US, India, Mexico, and Southeast Asia.
+- [Leadership](https://www.atirobotics.ai/company/leadership/): Executive team driving Ati Robotics product, engineering, and operations.
+- [Careers](https://www.atirobotics.ai/company/careers/): Open engineering, product, and operations roles globally.
+- [Partnerships](https://www.atirobotics.ai/company/partnerships/): System integrator and distributor partner program.
+
+## Products (Sherpa AMR Family)
+
+- [Sherpa 10K](https://www.atirobotics.ai/products/trolley/sherpa-10k/): Highest-payload trolley AMR, engineered for demanding factory towing applications up to 10,000 lbs (4,600 kg).
+- [Sherpa XT Lite](https://www.atirobotics.ai/products/trolley/sherpa-xt-lite/): Rugged autonomous trolley tugger built for full-shift indoor and outdoor operation, up to 3,300 lbs (1,500 kg) payload.
+- [Sherpa Pallet Mover](https://www.atirobotics.ai/products/pallet/sherpa-pallet-mover/): Autonomous pallet transport up to 3,300 lbs (1,500 kg) with LiDAR, cameras, and dynamic obstacle avoidance.
+- [Sherpa Flexfork](https://www.atirobotics.ai/products/pallet/sherpa-flexfork/): Versatile AMR that autonomously lifts and transports trolleys up to 1,100 lbs (500 kg) using a single robust fork.
+- [Sherpa Lifter 500](https://www.atirobotics.ai/products/flexible/sherpa-lifter-500/): Compact, customizable AMR for automated pallet handling and bin movement, 1,100 lbs (500 kg) lift capacity.
+- [Sherpa Pivot](https://www.atirobotics.ai/products/flexible/sherpa-pivot/): Versatile autonomous material mover with modular mono fork and trailing unit attachments, up to 1,100 lbs (500 kg).
+- [Sherpa Mecha](https://www.atirobotics.ai/products/sherpa-mecha/): Industrial humanoid-inspired robot built for unstructured manufacturing work.
+
+## Solutions
+
+- [Tugging](https://www.atirobotics.ai/solutions/tugging/): High-payload autonomous towing for demanding factory environments. Built around Sherpa 10K and Sherpa XT Lite.
+- [Pallet Movement](https://www.atirobotics.ai/solutions/pallet-movement/): Autonomous pallet transport that eliminates forklift dependency. Sherpa Pallet Mover and Flexfork.
+- [Lifting & Handling](https://www.atirobotics.ai/solutions/lifting-and-handling/): Autonomous bin, rack, and mixed-load handling for complex flows. Sherpa Mecha and Lifter Series.
+- [Software & Orchestration](https://www.atirobotics.ai/solutions/orchestration/): Fleet Manager, Material Orchestration, and Copilot — the intelligent coordination layer for AMR fleets.
+
+## Software
+
+- [Ati Fleet Manager](https://www.atirobotics.ai/software/ati-fm/): VDA 5050 compliant multi-vendor fleet management platform with real-time traffic management and ERP/MES integration.
+- [Ati Copilot](https://www.atirobotics.ai/software/ati-copilot/): Conversational AI interface for Ati Fleet Manager. Configure routes, resolve alerts, and pull reports in plain language.
+- [Sanjaya](https://www.atirobotics.ai/software/sanjaya/): Real-time fleet insights, KPI reporting, predictive maintenance, and route analytics.
+
+## Industries
+
+- [Automotive](https://www.atirobotics.ai/industries/automotive/): AMRs for assembly lines, body shops, and stamping facilities.
+- [Medical & Pharmaceutical](https://www.atirobotics.ai/industries/pharmaceutical/): GMP-compliant material flow through clean rooms and production areas.
+- [Food & Beverage](https://www.atirobotics.ai/industries/food-beverage/): Continuous material replenishment from cold storage to line side.
+- [Consumer Goods & Electronics](https://www.atirobotics.ai/industries/consumer-goods/): High-SKU component supply and assembly line replenishment.
+- [Heavy Equipment & Agriculture](https://www.atirobotics.ai/industries/heavy-equipment/): High-payload sub-assembly transport.
+- [Energy, Oil & Gas](https://www.atirobotics.ai/industries/energy/): Indoor and outdoor material transport across industrial sites.
+
+## Resources
+
+- [Educational Content](https://www.atirobotics.ai/resources/educational-content/): Articles, webinars, and on-demand sessions on AMR deployment and AI on the shop floor.
+- [Yokohama Case Study](https://www.atirobotics.ai/resources/case-studies/yokohama/): How Yokohama orchestrates 10,000+ daily material-handling activities across a mega-facility producing 4,000 tires a day with Ati Robotics AMRs.
+- [Brochures & Videos](https://www.atirobotics.ai/resources/brochures-videos/): Product videos and downloadable brochures for every Ati platform.
+- [Press](https://www.atirobotics.ai/resources/press/): Company announcements and media coverage.
+- [ROI Calculator](https://www.atirobotics.ai/resources/roi-calculator/): Calculate Ati Robotics deployment value before any sales conversation.
+
+## Contact & Engagement
+
+- [Request Site Assessment](https://www.atirobotics.ai/site-assessment/): Have an Ati specialist evaluate your facility and recommend a deployment path.
+- [Contact](https://www.atirobotics.ai/contact/): Sales, customer support, and press inquiries.
+
+## Optional
+
+- [Sitemap](https://www.atirobotics.ai/sitemap.xml): Full machine-readable site index.
